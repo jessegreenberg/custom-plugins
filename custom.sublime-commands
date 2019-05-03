@@ -11,7 +11,7 @@
       "command": "set_single"
     },
     {
-      "caption": "Single View (custom)",
+      "caption": "Double View (custom)",
       "command": "set_side_by_side"
     },
 ]

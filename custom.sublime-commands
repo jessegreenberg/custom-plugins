@@ -1,17 +1,17 @@
 [
     {
-      "caption": "Git: Log Selection (custom)",
+      "caption": "Custom: Git Log Selection",
       "command": "git_log_selection",
       "args": {
         "cmd": "git log -L $lines:$file_name"
       }
     },
     {
-      "caption": "Single View (custom)",
+      "caption": "Custom: Single View",
       "command": "set_single"
     },
     {
-      "caption": "Double View (custom)",
+      "caption": "Custom: Double View",
       "command": "set_side_by_side"
     },
 ]

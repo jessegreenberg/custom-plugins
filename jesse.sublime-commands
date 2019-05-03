@@ -1,0 +1,9 @@
+[
+    {
+      "caption": "Git: Log Selection (custom)",
+      "command": "git_log_selection",
+      "args": {
+        "cmd": "git log -L $lines:$file_name"
+      }
+    },
+]

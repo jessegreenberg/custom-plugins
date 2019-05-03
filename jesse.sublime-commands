@@ -6,4 +6,12 @@
         "cmd": "git log -L $lines:$file_name"
       }
     },
+    {
+      "caption": "Single View (custom)",
+      "command": "set_single"
+    },
+    {
+      "caption": "Single View (custom)",
+      "command": "set_side_by_side"
+    },
 ]

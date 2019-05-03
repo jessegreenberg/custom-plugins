@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class SetSideBySide(sublime_plugin.WindowCommand):
+class DoubleView(sublime_plugin.WindowCommand):
   def run(self):
 
     # layout with two windows

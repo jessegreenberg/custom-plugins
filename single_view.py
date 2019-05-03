@@ -2,7 +2,7 @@ import sublime
 import sublime_plugin
 
 
-class SetSingle(sublime_plugin.WindowCommand):
+class SingleView(sublime_plugin.WindowCommand):
   def run(self):
 
     # layout with two windows

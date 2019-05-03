@@ -8,10 +8,10 @@
     },
     {
       "caption": "Custom: Single View",
-      "command": "set_single"
+      "command": "single_view"
     },
     {
       "caption": "Custom: Double View",
-      "command": "set_side_by_side"
+      "command": "double_view"
     },
 ]
